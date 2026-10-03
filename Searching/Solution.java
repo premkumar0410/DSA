@@ -1,6 +1,6 @@
 package Searching;
 
-import java.util.Arrays;
+
 
 
 // brute force 
