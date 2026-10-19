@@ -6,7 +6,7 @@ Tracking
 
 | Topic | Problems Solved | Status |
 |---|---|---|
-| Arrays | 8 / 15 | 🔲 Not Started |
+| Arrays | 13 / 15 | 🔲 In Progress |
 | Strings | 0 / 15 | 🔲 Not Started |
 | Hashing | 0 / 15 | 🔲 Not Started |
 | Two Pointers | 0 / 15 | 🔲 Not Started |
