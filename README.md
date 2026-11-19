@@ -6,9 +6,9 @@ Tracking
 
 | Topic | Problems Solved | Status |
 |---|---|---|
-| Arrays | 13 / 15 | 🔲 In Progress |
-| Strings | 0 / 15 | 🔲 Not Started |
-| Hashing | 0 / 15 | 🔲 Not Started |
+| Arrays | 15 / 15 | 🔲 In Progress |
+| Strings | 15 / 15 | 🔲 Not Started |
+| Hashing | 2 / 15 | 🔲 Not Started |
 | Two Pointers | 0 / 15 | 🔲 Not Started |
 | Sliding Window | 0 / 15 | 🔲 Not Started |
 | Binary Search | 0 / 15 | 🔲 Not Started |
